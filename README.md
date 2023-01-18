@@ -2,8 +2,9 @@
 
   
 <div>
-   <a href="https://github.com/devemdobro">
-       <img height="180em" src="(https://github-readme-stats.vercel.app/api/pin/?username=CarvalhoJG&repo=github-readme-stats)](https://github.com/CarvalhoJG/github-readme-stats)/>
+   <a href="https://github.com/CarvalhoJG">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarvalhoJG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarvalhoJG&layout=compact&langs_count=6&theme=tokyonight"/>
    
 </div>
   
